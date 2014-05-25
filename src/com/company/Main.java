@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Test");
         System.out.println("Drugi test");
         System.out.println("TRZXECIA LINI");
+
+        King k = new King("Ryszard III");
+        System.out.println(k.getName());
     }
 }
