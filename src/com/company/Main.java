@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Test");
         System.out.println("Drugi test");
+        System.out.println("TRZXECIA LINI");
     }
 }
