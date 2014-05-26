@@ -15,5 +15,6 @@ public class King {
         return name;
     }
 
-
+	String toString() { return "King " + name; }
+	
 }
