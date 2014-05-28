@@ -10,3 +10,6 @@ I coś dopisanego z linii poleceń Windowsa
 Taki sobie tekst
 
 I jeszcze coś  takiego: może to przejdzie.
+
+## To jest jakiś nagłówek ##
+Opis danych wyświetlanych na zdalnej tablicy
