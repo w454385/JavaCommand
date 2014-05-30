@@ -16,5 +16,9 @@ public class King {
     }
 
 	public String toString() { return "King " + name; }
+        
+        String getSomething() {
+            return name + " i cośtam...";
+        }
 	
 }
